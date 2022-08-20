@@ -20,4 +20,25 @@ AWS CodePipelineのチュートリアルをもとに手を動かしてみる
 
   - AWS ECRにプライベートレポジトリを作る
 
-  - 
+- VPCの用意
+
+  - ECSのクラスターを動かす環境を用意する必要がある
+
+- ECSの用意
+
+  - クラスターは、default を使用
+
+  - タスク定義を作成
+
+  - タスクを動かすサービスを作成
+
+
+- CodePipelineの設定
+
+  - CodeCommite
+
+    - github のレポジトリを
+
+  - CodeBuild
+
+  - CodeDeploy
