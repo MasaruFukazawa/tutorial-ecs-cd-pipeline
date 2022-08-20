@@ -16,4 +16,8 @@ AWS CodePipelineのチュートリアルをもとに手を動かしてみる
 
 - ローカルでDockerを用いてdjangoアプリを動かしてみる
 
-- 
+- Dockerイメージを作ってAWS ECRに入れる
+
+  - AWS ECRにプライベートレポジトリを作る
+
+  - 
